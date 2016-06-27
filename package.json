@@ -1,0 +1,23 @@
+{
+  "name": "iniciando-gulp-stylus",
+  "version": "1.0.0",
+  "description": "Exemplo do artigo \"Iniciando com gulp + stylus\".",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeralbinoi/iniciando-gulp-stylus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeralbinoi/iniciando-gulp-stylus/issues"
+  },
+  "homepage": "https://github.com/rogeralbinoi/iniciando-gulp-stylus#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.5.0"
+  }
+}
